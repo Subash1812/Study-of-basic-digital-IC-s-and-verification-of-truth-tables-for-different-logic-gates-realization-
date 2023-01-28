@@ -84,11 +84,14 @@ RTL realization
 Output:
 RTL
 
-https://github.com/kabilan22000284/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+![image](https://user-images.githubusercontent.com/123537051/215272783-afd38c57-a975-464d-952e-725ce7251a57.png)
+
 
 wavwform
 
-![image](https://user-images.githubusercontent.com/123537051/215272706-ca9c70f1-ddd8-4118-b915-b0aa6be2d9ab.png)
+![image](https://user-images.githubusercontent.com/123537051/215272794-27489178-de15-4e55-80a4-f6986645ec4c.png)
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
